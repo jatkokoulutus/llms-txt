@@ -1,0 +1,78 @@
+# llms.txt – Jatkokoulutus.com
+> Jatkokoulutus.com (Kurssini Oy) tarjoaa verkko- ja livekoulutuksia (Traficom-hyväksyntää edellyttävät sekä muita korttikoulutuksia).
+> Tämä tiedosto listaa viralliset, tärkeimmät sivut kolmella kieliversiolla: FI | EN | SV.
+
+## SUOMI (FI)
+
+### Etusivu ja yleissivut
+- [Etusivu](https://www.jatkokoulutus.com/)
+- [Ajankohtaista / artikkelit](https://www.jatkokoulutus.com/ajankohtaista/)
+
+### Osto ja koulutustarjonta
+- [Osta koulutuksia](https://www.jatkokoulutus.com/osta-koulutuksia/)
+- [Verkkokoulutukset](https://www.jatkokoulutus.com/verkkokoulutukset/)
+- [Livekoulutukset (etä) – tuoteosasto](https://www.jatkokoulutus.com/tuote-osasto/livekoulutukset-eta/)
+- [Koulutuspaketit – tuoteosasto](https://www.jatkokoulutus.com/tuote-osasto/koulutuspaketit/)
+- [Koulutusliput – tuoteosasto](https://www.jatkokoulutus.com/tuote-osasto/koulutusliput/)
+
+### Koulutuskalenterit
+- [Koulutuskalenteri (live-etäkoulutukset)](https://www.jatkokoulutus.com/koulutuskalenteri/)
+- [Koulutukset (kalenterinäkymä)](https://www.jatkokoulutus.com/koulutukset/)
+
+### Kirjautuminen ja tuki
+- [Kirjaudu koulutuksiin](https://www.jatkokoulutus.com/kirjaudu-koulutuksiin/)
+- [Yhteystiedot](https://www.jatkokoulutus.com/yhteystiedot/)
+- [Usein kysytyt kysymykset (UKK)](https://www.jatkokoulutus.com/usein-kysytyt-kysymykset-ammattipatevyydesta-ja-koulutuksista/)
+
+### Ehdot ja tietosuoja
+- [Tilaus- ja toimitusehdot](https://www.jatkokoulutus.com/tilaus-ja-toimitusehdot/)
+- [Tietosuojaseloste](https://www.jatkokoulutus.com/privacy-policy/)
+
+---
+
+## ENGLISH (EN)
+
+### Homepage and key pages
+- [Front page](https://www.jatkokoulutus.com/en/front-page/)
+
+### Purchase and training offerings
+- [Purchase Training](https://www.jatkokoulutus.com/en/purchase-training/)
+- [Online Training](https://www.jatkokoulutus.com/en/online-training/)
+- [Card Trainings](https://www.jatkokoulutus.com/en/card-trainings/)
+- [Live Trainings (Remote) – category](https://www.jatkokoulutus.com/en/tuote-osasto/livetrainings-remote/)
+
+### Training calendar
+- [Training Calendar](https://www.jatkokoulutus.com/en/training-calendar/)
+
+### Login & support
+- [Log in to Trainings](https://www.jatkokoulutus.com/en/log-in-to-trainings/)
+- [Contact Us](https://www.jatkokoulutus.com/en/contact-us/)
+- [FAQ – Driver CPC and Training](https://www.jatkokoulutus.com/en/frequently-asked-questions-about-driver-cpc-and-training/)
+
+### Legal
+- [Order and Delivery Terms](https://www.jatkokoulutus.com/en/order-and-delivery-terms/)
+- [Privacy Policy](https://www.jatkokoulutus.com/en/privacy-policy/)
+
+---
+
+## SVENSKA (SV)
+
+### Startsida och nyckelsidor
+- [Startsida](https://www.jatkokoulutus.com/sv/startsida/)
+
+### Köp och utbildningsutbud
+- [Köp utbildningar](https://www.jatkokoulutus.com/sv/kop-utbildningar/)
+- [Onlinekurser](https://www.jatkokoulutus.com/sv/onlinekurser/)
+- [Kortutbildningar](https://www.jatkokoulutus.com/sv/kortutbildningar/)
+
+### Utbildningskalender
+- [Utbildningskalender](https://www.jatkokoulutus.com/sv/utbildningskalender/)
+
+### Inloggning & support
+- [Logga in till utbildningar](https://www.jatkokoulutus.com/sv/logga-in-till-utbildningar/)
+- [Kontaktuppgifter](https://www.jatkokoulutus.com/sv/kontaktuppgifter/)
+- [Vanliga frågor](https://www.jatkokoulutus.com/sv/vanliga-fragor-om-yrkeskompetens-och-utbildning/)
+
+### Villkor och dataskydd
+- [Beställnings- och leveransvillkor](https://www.jatkokoulutus.com/sv/bestallnings-och-leveransvillkor/)
+- [Dataskyddsbeskrivning](https://www.jatkokoulutus.com/sv/dataskyddsbeskrivning/)
